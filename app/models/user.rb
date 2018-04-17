@@ -1,6 +1,8 @@
 class User < ApplicationRecord
   attr_accessor :remember_token, :activation_token, :reset_token
 
+  has_many :microposts, dependent: :destroy
+
   before_save :downcase_email
   before_create :create_activation_digest
 
@@ -53,6 +55,9 @@ class User < ApplicationRecord
     UserMailer.password_reset(self).deliver_now
   end
 
+  def feed
+    Micropost.where "user_id = ?", id
+  end
 
   private
   # Converts email to all lower-case.
