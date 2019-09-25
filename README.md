@@ -22,10 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-very good
-hello world
-first change
-second change
-huy change
-chinh tho
-lalala
+
+hihi
