@@ -21,16 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-test 1
-
-hihi
-very good
-hello world
-first change
-second change
-huy change
-chinh tho
-HEAD
-lalala
-em la bong hong nho
-ruby
+aaaaaaa
