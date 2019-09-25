@@ -21,9 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-
-thay doi 1
+test 1
 
 hihi
 very good
@@ -35,39 +33,4 @@ chinh tho
 HEAD
 lalala
 em la bong hong nho
- thay doi 1
-
-hello everybody
-thay doi 1
- thay doi 1
-
-
-hihi
-
-day la moi
-6x
-
-
-hihi
-
-day la moi
-6x
-
-
-hihi
-very good
-hello world
-first change
-second change
-huy change
-chinh tho
-lalala
-em la bong hong nho
- thay doi 1
-
-
-
-
-hihi
-
->
+ruby
