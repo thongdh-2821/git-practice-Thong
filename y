@@ -21,18 +21,13 @@ Things you may want to cover:
 
 * Deployment instructions
 
-aaaaaaa
-test 1
 * ...
-xin chao
-change
+HEAD
+HEAD
 ahihi
- thay doi 3
-
-thay doi 3
- change
+ahiha
+HEAD
 thay doi 1
- thay doi 3
 
 hihi
 very good
@@ -41,52 +36,11 @@ first change
 second change
 huy change
 chinh tho
+HEAD
 lalala
 em la bong hong nho
-ruby
-
  thay doi 1
-
-thay doi 1
- change
 
 hello everybody
 thay doi 1
  thay doi 1
-
-
-hihi
-
-day la moi
-6x
-
-
-hihi
-
-day la moi
-6x
-
-
-hihi
-very good
-hello world
-first change
-second change
-huy change
-chinh tho
-lalala
-em la bong hong nho
- thay doi 1
-
-
-
-
-hihi
-
-
- thay doi 3
-
-thay doi 1
- change
- change
- thay doi 3
