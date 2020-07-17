@@ -26,7 +26,7 @@ class UsersController < ApplicationController
       # flash[:success] = "Welcome to the Sample App!"
       # redirect_to @user
       UserMailer.account_activation(@user).deliver_now
-      flash[:info] = "Please check your email to activate your account."
+      flash[:info] = "demo git !!!!!!"
       redirect_to root_url
     else
       render "new"
