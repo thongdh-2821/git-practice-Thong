@@ -10,3 +10,5 @@ Nguyen The Manh task2
 
 Hang Vu
 
+noi dung commit 1
+noi dung commit 2
