@@ -12,3 +12,6 @@ Hang Vu
 
 noi dung commit 1
 noi dung commit 2
+
+conflict example
+
